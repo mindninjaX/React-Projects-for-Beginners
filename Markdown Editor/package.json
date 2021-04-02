@@ -6,7 +6,6 @@
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
-    "marked": "^2.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-markdown": "^5.0.3",
